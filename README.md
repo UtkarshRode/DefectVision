@@ -388,11 +388,11 @@ http://localhost:8501
 
 ---
 
-# 🌐 Live Demo
+**Live Demo:** https://defectvision-mswtdwk5kwgkdqlnqwqsy.streamlit.app
 
 **Streamlit Cloud:**
 
-YOUR_STREAMLIT_URL
+defectvision-mswdtdwk5kwgkdqlnqwqsy.streamlit.app
 
 ---
 
